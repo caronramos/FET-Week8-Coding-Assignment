@@ -1,0 +1,63 @@
+
+body {
+    background-image: url("Images/WashedOutBlackWP.jpeg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.horizontalwhiteline {
+    border-bottom: 2px solid white;
+    height: 5px;
+    width: 200px;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    color: white; 
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: yellow; 
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    color: white; 
+    text-align: center;
+    font-size: 25px;
+}
+
+h4 {
+    color: yellow;
+    font-size: 22px;
+}
+
+a {
+    color:white;
+    font-weight: bold;
+}
+
+table {
+    table-layout: fixed ;
+    width: 50% ;
+}
+
+td {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+ol {
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
